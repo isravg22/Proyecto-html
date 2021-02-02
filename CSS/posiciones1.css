@@ -1,0 +1,44 @@
+p {
+    color: orange;
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 30px 30px 30px darkred;
+}
+#cabecera{
+	position: absolute;
+	top: 2%;
+	height: 10%;
+	width: 94.5%;
+}
+#indice{
+	position: fixed;
+	top: 13%;
+	left: 2%
+	width:29%;
+	height: 65%
+}
+#contenido{
+	position: absolute;
+	top: 13%;
+	left: 30%;
+	width: 65%;
+	height: 75%;
+
+}
+#piedepagina{
+	position: absolute;
+	top: 89%;
+	left: 30%;
+	height:10%;
+	width: 65%;
+
+
+}
+.b{
+	background-color:   #ffcaf9     ;
+
+}
+.a{
+	background-color:  blue ;
+}
